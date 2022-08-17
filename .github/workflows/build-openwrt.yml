@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt ImmortalWrt SSH-to-true
+name: Build ImmortalWrt SSH-to-true
 
 on:
   repository_dispatch:
